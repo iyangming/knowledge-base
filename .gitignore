@@ -1,0 +1,12 @@
+node_modules/
+
+.vitepress/cache/
+.vitepress/dist/
+
+.obsidian/
+.DS_Store
+
+# Internal-only documents must not be pushed to a public site repository.
+internal/
+CHANGELOG.md
+CONTRIBUTING.md
